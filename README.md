@@ -90,6 +90,28 @@ DataPilot-AI/
 └── .gitignore
 ```
 
+## 📸 Screenshots
+
+### Dashboard
+
+![DataPilot AI Dashboard](screenshots/Dashboard.png)
+
+### AI Analysis Report
+
+![AI Analysis Report](screenshots/AI%20Analysis%20Report.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](screenshots/Correlation%20Heatmap.png)
+
+### Data Visualization
+
+![Age Distribution](screenshots/Distribution%20of%20Age.png)
+
+### Professional Report Export
+
+![Professional Report Export](screenshots/Professional%20Report%20Export.png)
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
